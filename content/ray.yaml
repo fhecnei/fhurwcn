@@ -29,7 +29,7 @@ inbounds:
     wsSettings:
       path: /UUID-vm
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
@@ -58,7 +58,7 @@ inbounds:
     wsSettings:
       path: /UUID-tr
   sniffing:
-    enabled: true
+    enabled: false
     destOverride:
     - http
     - tls
